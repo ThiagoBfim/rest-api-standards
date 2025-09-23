@@ -10,3 +10,4 @@ An open collection of REST API standards documents
 | Heroku (extract)     | https://github.com/interagent/http-api-design                                                                     |
 | Microsoft            | https://github.com/microsoft/api-guidelines                                                                       |
 | The White House      | https://github.com/WhiteHouse/api-standards                                                                       |
+| Zalando              | https://opensource.zalando.com/restful-api-guidelines/                                                              
